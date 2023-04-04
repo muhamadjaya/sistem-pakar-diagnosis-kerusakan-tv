@@ -1,4 +1,4 @@
-![Sistem Pakar Diagnosis Kerusakan TV](./banner.png)
+![Sistem Pakar Diagnosis Kerusakan TV](./preview.jpg)
 
 ## Sistem Pakar Diagnosis Kerusakan TV
 
